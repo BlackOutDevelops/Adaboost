@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  vdetect.cpp
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(435): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(424): warning C4101: 'filename': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(501): warning C4101: 'num_features': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(494): warning C4101: 'mean': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(494): warning C4101: 'var': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1482): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'double'
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1482): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 2 has type 'double'
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1482): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 3 has type 'double'
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1526): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'double'
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1526): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 2 has type 'double'
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1526): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 3 has type 'double'
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1738): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1739): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1764): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1769): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'isw': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'ine': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'inw': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'ise': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vdetect\vdetect\vdetect.cpp(1833): warning C4101: 'buffer': unreferenced local variable
+  vdetect.vcxproj -> D:\School\Robot Vision\Module 3 Required Assignment Three\AdaBoost\vdetect\Debug\vdetect.exe
+  vdetect.vcxproj -> D:\School\Robot Vision\Module 3 Required Assignment Three\AdaBoost\vdetect\Debug\vdetect.pdb (Full PDB)
