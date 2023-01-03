@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  vboost.cpp
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(221): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+  d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(221): note: consider using '%llx' in the format string
+  d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(221): note: consider using '%I64x' in the format string
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(626): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(475): warning C4101: 'dummy': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(519): warning C4101: 'sigma': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(519): warning C4101: 'mean': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(558): warning C4101: 'sigma': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(558): warning C4101: 'mean': unreferenced local variable
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(1211): warning C4477: 'printf' : format string '%03d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(1249): warning C4477: 'printf' : format string '%03d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(1466): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(1468): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2153): warning C4477: 'fscanf' : format string '%f' requires an argument of type 'float *', but variadic argument 2 has type 'double *'
+  d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2153): note: consider using '%lf' in the format string
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2331): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2335): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2336): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2337): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2338): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2338): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2344): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2351): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2450): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2511): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2511): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2597): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\school\robot vision\module 3 required assignment three\adaboost\vboost\vboost\vboost.cpp(2844): warning C4129: 'i': unrecognized character escape sequence
+  vboost.vcxproj -> D:\School\Robot Vision\Module 3 Required Assignment Three\AdaBoost\vboost\Debug\vboost.exe
+  vboost.vcxproj -> D:\School\Robot Vision\Module 3 Required Assignment Three\AdaBoost\vboost\Debug\vboost.pdb (Full PDB)
